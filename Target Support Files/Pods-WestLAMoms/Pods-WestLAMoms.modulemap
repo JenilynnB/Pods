@@ -1,0 +1,6 @@
+framework module Pods_WestLAMoms {
+  umbrella header "Pods-WestLAMoms-umbrella.h"
+
+  export *
+  module * { export * }
+}
